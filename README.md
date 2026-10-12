@@ -124,7 +124,5 @@ I enjoy projects where building the underlying technology is as interesting as b
 
 ## 🔗 Elsewhere
 
-- 🌐 **Gylko Games** — https://www.gylkogames.com/
 - 🎮 **Centauri64** — https://github.com/chrisgilkes/centauri-64
-- 💼 **LinkedIn** — [Add profile link]
-- 🕹️ **itch.io** — [Add profile link]
+- 💼 **LinkedIn** — https://www.linkedin.com/in/chris-gilkes-96308313
